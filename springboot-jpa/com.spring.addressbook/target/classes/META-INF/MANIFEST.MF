@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: com.spring.addressbook
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenovo Pc
+Implementation-Vendor-Id: com.project
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://spring.io/projects/spring-boot/com.spring.
+ addressbook
+Created-By: Maven Integration for Eclipse
+
